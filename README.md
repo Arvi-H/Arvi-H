@@ -1,7 +1,4 @@
 ## 👋 Hey there, I'm Arvi!
-## Hey there, I'm Arvi! 👋 
-## Hi there, I'm Arvi! 👋 
-### 👋 Hey there, I'm Arvi!
 # 👋 Hey there, I'm Arvi!
 
 - 💻 Full-stack software engineer specializing in web (Node/React/MySQL) and iOS (Swift/SwiftUI) development
