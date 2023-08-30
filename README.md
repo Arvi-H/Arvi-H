@@ -6,6 +6,6 @@
 - 🔭 Vice President of the Association for Computing Machinery Club (BYU)
 - 🌱 Always interested in driving business growth and efficiency through innovative solutions
  
-### [website]
+### [🔗 Check out my website]
 
 [🔗 Check out my website]: https://www.arvih.com
